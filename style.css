@@ -73,7 +73,12 @@ div {
 .round{
   border-radius: 50%;
 }
-
+.btn-krl{
+  background-color: black;
+}
+.btn-krl:hover{
+  background-color: black;
+}
 
 #footer{
   background: rgba(85, 85, 85, 0.2);;
